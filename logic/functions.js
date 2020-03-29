@@ -1,6 +1,6 @@
-const sayHello = () => {console.log ("Siemka")}
+const sayHello = () => { console.log("Siemka") }
 
-const sum = (a,b) =>{
+const sum = (a, b) => {
     return a + b
 }
 
@@ -9,4 +9,4 @@ module.exports = {
     sum
 };
 
-console.log("the whole fileswas already loaded");
+console.log("the whole file was already loaded");
